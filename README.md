@@ -1,4 +1,4 @@
-## Machine Learning courses with video lectures
+## Machine Learning Courses with Video Lectures
 
 
 ### Artificial Intelligence
