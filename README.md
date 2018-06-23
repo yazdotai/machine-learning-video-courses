@@ -1,6 +1,3 @@
-# machine-learning-videos
-Comprehensive list of machine learning videos
-
 ## Machine Learning courses with video lectures
 
 
