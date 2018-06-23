@@ -1,7 +1,7 @@
 # machine-learning-videos
 Comprehensive list of machine learning videos
 
-## Computer Science courses with video lectures
+## Machine Learning courses with video lectures
 
 ### Update ...
 
