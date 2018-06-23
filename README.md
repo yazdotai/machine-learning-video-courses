@@ -3,11 +3,6 @@ Comprehensive list of machine learning videos
 
 ## Machine Learning courses with video lectures
 
-### Update ...
-
-**Introduction**
-
-- The list of videos will be updated weekly
 
 ------------------------------
 
